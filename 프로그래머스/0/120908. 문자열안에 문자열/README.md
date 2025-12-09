@@ -1,10 +1,10 @@
 # [level 0] 문자열안에 문자열 - 120908 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120908) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120908?language=cpp) 
 
 ### 성능 요약
 
-메모리: 3.66 MB, 시간: 0.01 ms
+메모리: 3.64 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 12월 09일 15:11:33
+2025년 12월 09일 17:17:05
 
 ### 문제 설명
 
